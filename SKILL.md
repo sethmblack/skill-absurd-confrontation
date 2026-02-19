@@ -3,7 +3,7 @@ name: absurd-confrontation
 description: Analyze any situation through Camus's philosophy of the absurd - identifying the gap between human longing for meaning and the universe's silence, then charting an authentic response that neither d...
 license: MIT
 metadata:
-  version: 1.0.5836
+  version: 1.0.5837
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
